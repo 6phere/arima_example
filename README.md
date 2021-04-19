@@ -7,5 +7,4 @@ Se puede ejecutar directamente el notebook jupyter example1.
 
 O también se puede visualizar el resultado directamente en https://6phere.github.io/arima_example/example1.html
 
-Sixphere
-We are code lovers
+**Sixphere** We are code lovers
